@@ -9,6 +9,7 @@
 |   07/31   | chapter 3 |      complete       |
 | 07/31 - 2 | chapter 4 | list complete (1/2) |
 |   08/01   | chapter 4 |      complete       |
+| 08/01 - 2 | chapter 5 |   condition (1/2)   |
 
 
 ---
