@@ -2,12 +2,13 @@
 
 ---
 ### Process
-|    날짜     |     내역     |         비고          |
-|:---------:|:----------:|:-------------------:|
-|   07/24   | chapter 1  |      complete       |
-|   07/25   | chapter 2  |      complete       |
-|   07/31   | chapter 3  |      complete       |
-| 07/31 - 2 | chapter 4  | list complete (1/2) |
+|    날짜     |    내역     |         비고          |
+|:---------:|:---------:|:-------------------:|
+|   07/24   | chapter 1 |      complete       |
+|   07/25   | chapter 2 |      complete       |
+|   07/31   | chapter 3 |      complete       |
+| 07/31 - 2 | chapter 4 | list complete (1/2) |
+|   08/01   | chapter 4 |      complete       |
 
 
 ---
