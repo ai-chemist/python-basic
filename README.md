@@ -12,6 +12,7 @@
 | 08/01 - 2 |     chapter 5 (condition - if)     |         condition (1/2)         |
 |   08/04   |     chapter 5 (condition - if)     |            complete             |
 | 08/04 - 2 |       chapter 6 (dictionary)       | basic dictionary complete (1/3) |
+| 08/04 - 3 |       chapter 6 (dictionary)       |            complete             |
 
 
 ---
