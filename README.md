@@ -15,6 +15,7 @@
 | 08/04 - 3 |        chapter 6 (dictionary)         |            complete             |
 |   08/05   | chapter 7 (user input and while loop) |        user input (1/2)         |
 | 08/05 - 2 | chapter 7 (user input and while loop) |       user input complete       |
+| 08/05 - 3 | chapter 7 (user input and while loop) |            complete             |
 
 
 ---
