@@ -18,7 +18,7 @@
 | 08/05 - 3 | chapter 7 (user input and while loop) |            complete             |
 |   08/06   |         chapter 8 (function)          |         function (1/3)          |
 |   08/08   |         chapter 8 (function)          |         function (2/3)          |
-
+| 08/08 - 2 |         chapter 8 (function)          |         function (5/6)          |
 
 ---
 
@@ -26,6 +26,8 @@
 - range(a, b) 내부 동작 구조 - 실행 시 어떠한 동작 구조를 가지는지
 - Dictionary 키-값 할당 방식 - 키를 통해 값에 접근할 때 키는 C의 포인터 변수 같은 구조를 가지는가?
 - input() 사용 시 어떠한 경로를 통해 프롬프트 값이 변수에 할당되는가?
-
+- 메서드에 리스트 전달 후 for item in list 등으로 접근 시 item 값을 변경해도 리스트에 영향 X (포인터 변수가 아닌 값 복사 기반으로 예상됨)
+  - 메서드에 return list을 만들고 함수 호출 후 값을 받아와도 변동 X
+- 
 ---
 *Based on the book by **"Eric Matthes"***
