@@ -16,7 +16,8 @@
 |   08/05   | chapter 7 (user input and while loop) |        user input (1/2)         |
 | 08/05 - 2 | chapter 7 (user input and while loop) |       user input complete       |
 | 08/05 - 3 | chapter 7 (user input and while loop) |            complete             |
-|   08/06   |         chapter 8 (function)          |         function (1/2)          |
+|   08/06   |         chapter 8 (function)          |         function (1/3)          |
+|   08/08   |         chapter 8 (function)          |         function (2/3)          |
 
 
 ---
