@@ -19,6 +19,7 @@
 |   08/06   |         chapter 8 (function)          |         function (1/3)          |
 |   08/08   |         chapter 8 (function)          |         function (2/3)          |
 | 08/08 - 2 |         chapter 8 (function)          |         function (5/6)          |
+|   08/09   |         chapter 8 (function)          |            complete             |
 
 ---
 
