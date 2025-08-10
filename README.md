@@ -20,10 +20,11 @@
 |   08/08   |         chapter 8 (function)          |         function (2/3)          |
 | 08/08 - 2 |         chapter 8 (function)          |         function (5/6)          |
 |   08/09   |         chapter 8 (function)          |            complete             |
+|   08/10   |           chapter 9 (class)           |           class (1/3)           |
 
 ---
 
-#### 추후 자세히 알아볼 것
+#### 추후 자세히 알아볼 것 (회독 종료 후 정리)
 - range(a, b) 내부 동작 구조 - 실행 시 어떠한 동작 구조를 가지는지
 - Dictionary 키-값 할당 방식 - 키를 통해 값에 접근할 때 키는 C의 포인터 변수 같은 구조를 가지는가?
 - input() 사용 시 어떠한 경로를 통해 프롬프트 값이 변수에 할당되는가?
