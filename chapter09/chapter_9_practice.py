@@ -18,6 +18,17 @@ class Restaurant:
         self.number_served += number_served
 
 
+class IceCreamStand(Restaurant):
+    """Sub Class"""
+
+    def __init__(self, name, cuisine_type, flavor='flavor'):
+        """Constructor"""
+        super().__init__(name, cuisine_type)
+        self.flavor = flavor
+
+    def get_flavor(self):
+        return self.flavor
+
 
 res_0 = Restaurant("Chicken", "Soft")
 res_1 = Restaurant("Beef", "Hard")

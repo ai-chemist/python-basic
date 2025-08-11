@@ -21,6 +21,26 @@ class User:
         self.login_attempts = 0
 
 
+class Admin(User):
+    """Admin class docstring"""
+    def __init__(self, first_name, last_name, privileges):
+        super().__init__(first_name, last_name)
+        self.privileges = Privilege(privileges)
+
+
+
+class Privilege:
+    """Privilege class docstring"""
+    def __init__(self, privileges):
+        if not privileges:
+            privileges = ['Create', 'Read']
+        self.privileges = privileges
+
+    def show_privileges(self):
+        for privilege in self.privileges:
+            print(privilege)
+
+
 user_0 = User("Apple", "mac")
 user_1 = User("Bob", "Smith")
 
@@ -49,3 +69,7 @@ print(user_2.login_attempts)
 
 user_2.reset_login_attempts()
 print(user_2.login_attempts)
+
+# practice 9-8
+admin = Admin("Admin", "Admin", privileges=["Create", "Read", "Write"])
+admin.privileges.show_privileges()
