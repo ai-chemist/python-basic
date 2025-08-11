@@ -22,6 +22,7 @@
 |   08/09   |         chapter 8 (function)          |            complete             |
 |   08/10   |           chapter 9 (class)           |           class (1/3)           |
 |   08/11   |           chapter 9 (class)           |           class (2/3)           |
+| 08/11 - 2 |           chapter 9 (class)           |            complete             |
 
 ---
 
