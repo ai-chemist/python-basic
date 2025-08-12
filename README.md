@@ -23,6 +23,7 @@
 |   08/10   |           chapter 9 (class)           |           class (1/3)           |
 |   08/11   |           chapter 9 (class)           |           class (2/3)           |
 | 08/11 - 2 |           chapter 9 (class)           |            complete             |
+|   08/12   |    chapter 10 (file and exception)    |           file (1/2)            |
 
 ---
 
