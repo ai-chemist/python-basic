@@ -24,7 +24,8 @@
 |   08/11   |           chapter 9 (class)           |           class (2/3)           |
 | 08/11 - 2 |           chapter 9 (class)           |            complete             |
 |   08/12   |    chapter 10 (file and exception)    |           file (1/2)            |
-
+| 08/12 - 2 |    chapter 10 (file and exception)    |          file complete          |
+| 08/12 - 3 |    chapter 10 (file and exception)    |       exception complete        |
 ---
 
 #### 추후 자세히 알아볼 것 (회독 종료 후 정리)
