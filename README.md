@@ -34,6 +34,6 @@
 - input() 사용 시 어떠한 경로를 통해 프롬프트 값이 변수에 할당되는가?
 - 메서드에 리스트 전달 후 for item in list 등으로 접근 시 item 값을 변경해도 리스트에 영향 X (포인터 변수가 아닌 값 복사 기반으로 예상됨)
   - 메서드에 return list을 만들고 함수 호출 후 값을 받아와도 변동 X
-- 
+- json 모듈 사용 중 dumps(), loads() 등의 메서드 호출 시 내부적으로 어떻게 데이터를 변환하는가?
 ---
 *Based on the book by **"Eric Matthes"***
