@@ -27,6 +27,7 @@
 | 08/12 - 2 |    chapter 10 (file and exception)    |          file complete          |
 | 08/12 - 3 |    chapter 10 (file and exception)    |       exception complete        |
 | 08/12 - 4 |    chapter 10 (file and exception)    |            complete             |
+|   08/13   |           chapter 11 (test)           |            complete             |
 
 ---
 
@@ -37,5 +38,7 @@
 - 메서드에 리스트 전달 후 for item in list 등으로 접근 시 item 값을 변경해도 리스트에 영향 X (포인터 변수가 아닌 값 복사 기반으로 예상됨)
   - 메서드에 return list을 만들고 함수 호출 후 값을 받아와도 변동 X
 - json 모듈 사용 중 dumps(), loads() 등의 메서드 호출 시 내부적으로 어떻게 데이터를 변환하는가?
+- fixture 동작 구조
+
 ---
 *Based on the book by **"Eric Matthes"***
