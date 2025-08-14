@@ -2,33 +2,33 @@
 
 ---
 ### Process
-|    날짜     |                  내역                   |               비고                |
-|:---------:|:-------------------------------------:|:-------------------------------:|
-|   07/24   |           chapter 1 (basic)           |            complete             |
-|   07/25   |  chapter 2 (variable and data type)   |            complete             |
-|   07/31   |           chapter 3 (list)            |            complete             |
-| 07/31 - 2 |        chapter 4 (using list)         |       list complete (1/2)       |
-|   08/01   |        chapter 4 (using list)         |            complete             |
-| 08/01 - 2 |      chapter 5 (condition - if)       |         condition (1/2)         |
-|   08/04   |      chapter 5 (condition - if)       |            complete             |
-| 08/04 - 2 |        chapter 6 (dictionary)         | basic dictionary complete (1/3) |
-| 08/04 - 3 |        chapter 6 (dictionary)         |            complete             |
-|   08/05   | chapter 7 (user input and while loop) |        user input (1/2)         |
-| 08/05 - 2 | chapter 7 (user input and while loop) |       user input complete       |
-| 08/05 - 3 | chapter 7 (user input and while loop) |            complete             |
-|   08/06   |         chapter 8 (function)          |         function (1/3)          |
-|   08/08   |         chapter 8 (function)          |         function (2/3)          |
-| 08/08 - 2 |         chapter 8 (function)          |         function (5/6)          |
-|   08/09   |         chapter 8 (function)          |            complete             |
-|   08/10   |           chapter 9 (class)           |           class (1/3)           |
-|   08/11   |           chapter 9 (class)           |           class (2/3)           |
-| 08/11 - 2 |           chapter 9 (class)           |            complete             |
-|   08/12   |    chapter 10 (file and exception)    |           file (1/2)            |
-| 08/12 - 2 |    chapter 10 (file and exception)    |          file complete          |
-| 08/12 - 3 |    chapter 10 (file and exception)    |       exception complete        |
-| 08/12 - 4 |    chapter 10 (file and exception)    |            complete             |
-|   08/13   |           chapter 11 (test)           |            complete             |
-
+|    날짜     |                  내역                   |                                        비고                                         |
+|:---------:|:-------------------------------------:|:---------------------------------------------------------------------------------:|
+|   07/24   |           chapter 1 (basic)           |                                     complete                                      |
+|   07/25   |  chapter 2 (variable and data type)   |                                     complete                                      |
+|   07/31   |           chapter 3 (list)            |                                     complete                                      |
+| 07/31 - 2 |        chapter 4 (using list)         |                                list complete (1/2)                                |
+|   08/01   |        chapter 4 (using list)         |                                     complete                                      |
+| 08/01 - 2 |      chapter 5 (condition - if)       |                                  condition (1/2)                                  |
+|   08/04   |      chapter 5 (condition - if)       |                                     complete                                      |
+| 08/04 - 2 |        chapter 6 (dictionary)         |                          basic dictionary complete (1/3)                          |
+| 08/04 - 3 |        chapter 6 (dictionary)         |                                     complete                                      |
+|   08/05   | chapter 7 (user input and while loop) |                                 user input (1/2)                                  |
+| 08/05 - 2 | chapter 7 (user input and while loop) |                                user input complete                                |
+| 08/05 - 3 | chapter 7 (user input and while loop) |                                     complete                                      |
+|   08/06   |         chapter 8 (function)          |                                  function (1/3)                                   |
+|   08/08   |         chapter 8 (function)          |                                  function (2/3)                                   |
+| 08/08 - 2 |         chapter 8 (function)          |                                  function (5/6)                                   |
+|   08/09   |         chapter 8 (function)          |                                     complete                                      |
+|   08/10   |           chapter 9 (class)           |                                    class (1/3)                                    |
+|   08/11   |           chapter 9 (class)           |                                    class (2/3)                                    |
+| 08/11 - 2 |           chapter 9 (class)           |                                     complete                                      |
+|   08/12   |    chapter 10 (file and exception)    |                                    file (1/2)                                     |
+| 08/12 - 2 |    chapter 10 (file and exception)    |                                   file complete                                   |
+| 08/12 - 3 |    chapter 10 (file and exception)    |                                exception complete                                 |
+| 08/12 - 4 |    chapter 10 (file and exception)    |                                     complete                                      |
+|   08/13   |           chapter 11 (test)           |                                     complete                                      |
+|    이후     |          chapter 12 (pygame)          | [github : alien-invasion](https://github.com/ai-chemist/alien-invasion/tree/main) |
 ---
 
 #### 추후 자세히 알아볼 것 (회독 종료 후 정리)
